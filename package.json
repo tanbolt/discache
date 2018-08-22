@@ -1,0 +1,23 @@
+{
+  "name": "discache",
+  "version": "0.0.1",
+  "description": "Cache data on disk",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/tanbolt/discache.git"
+  },
+  "keywords": [
+    "cache",
+    "kv"
+  ],
+  "author": "Malacca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanbolt/tanbolt/issues"
+  },
+  "homepage": "https://github.com/tanbolt/discache",
+  "dependencies": {
+    "fs-ext": "^1.2.1"
+  }
+}
